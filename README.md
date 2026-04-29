@@ -118,7 +118,7 @@ Para ejecutar este sistema se requiere:
 4. Abrir navegador y acceder a:
 
 ```bash
-http://localhost/Examen-Parcial/
+http://localhost:8080/examen/index.php
 ```
 
 5. Ingresar con los usuarios definidos en el sistema.
