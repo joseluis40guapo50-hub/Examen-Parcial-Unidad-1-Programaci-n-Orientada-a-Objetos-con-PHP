@@ -84,7 +84,7 @@ Se accede únicamente cuando el sistema detecta este perfil.
 
 ---
 
-## 🔐 Funcionamiento del Sistema
+## Funcionamiento del Sistema
 
 1. El usuario accede al formulario principal.
 2. Ingresa su nombre de usuario y contraseña.
